@@ -1,0 +1,585 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A practicall discourse concerning Gods decrees. In two parts. The first concerning mans unfitnesse to dispute against the decrees of God: out of Rom. 9.20. The second tending to assert and cleare Gods absolute election of a limited and certaine number unto eternall life: out of Acts 13:48. By Edvvard Bagshavve st. of Ch. Ch.</title>
+            <author>Bagshaw, Edward, 1629-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 86 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77243</idno>
+            <idno type="STC">Wing B420</idno>
+            <idno type="STC">Thomason E965_3</idno>
+            <idno type="STC">ESTC R18103</idno>
+            <idno type="EEBO-CITATION">99860346</idno>
+            <idno type="PROQUEST">99860346</idno>
+            <idno type="VID">112466</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77243)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112466)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 144:E965[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A practicall discourse concerning Gods decrees. In two parts. The first concerning mans unfitnesse to dispute against the decrees of God: out of Rom. 9.20. The second tending to assert and cleare Gods absolute election of a limited and certaine number unto eternall life: out of Acts 13:48. By Edvvard Bagshavve st. of Ch. Ch.</title>
+                  <author>Bagshaw, Edward, 1629-1671.</author>
+               </titleStmt>
+               <extent>[8], 17, [3], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Hen. Hall printer to the University for Tho. Robinson,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Gods absolute election of a certaine and limited number unto eternall life" has separate pagination and dated title page lacking Robinson's name in imprint; register is continuous.</note>
+                  <note>Annotation on Thomason copy: "Jan: 12 Jan: 12."; the 9 in the imprint date has been altered to an "8".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Theology, Doctrinal --  Early works to 1800.</term>
+               <term>Predestination --  Early works to 1800.</term>
+               <term>God --  Omniscience --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112466:1" rendition="simple:additions"/>
+            <p>A Practicall Diſcourſe CONCERNING GODS DECREES.</p>
+            <p>In Two parts.</p>
+            <p>The Firſt concerning mans unfitneſſe to diſpute againſt the Decrees of God: <hi>out of</hi> Rom. 9.20.</p>
+            <p>
+               <hi>The Second tending to Aſſert and Cleare Gods Abſolute Election of a Limited and certaine Number unto Eter<g ref="char:EOLhyphen"/>nall Life:</hi> out of Acts 13.48.</p>
+            <p>
+               <hi>By</hi> EDVVARD BAGSHAVVE <hi>St.</hi> of <hi>Ch. Ch.</hi>
+            </p>
+            <p>OXFORD, Printed by <hi>Hen. Hall</hi> Printer to the UNIVERSITY for <hi>Tho. Robinſon,</hi> 1659.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:112466:2"/>
+            <pb facs="tcp:112466:2"/>
+            <head>TO THE HONORABLE MY Lord <hi>BRADSHAWE</hi> Lord Chiefe Juſtice of <hi>Cheſter.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <hi>My Noble</hi> Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg> Late Author in his ſeverall Treatiſes wherein he endea<g ref="char:EOLhyphen"/>vours to defend (I will not ſay the <hi>Arminian</hi> Tenets,
+<note place="margin">Mr <hi>Pierce.</hi>
+               </note> becauſe he is unwilling to have them ſo ſtiled, but, which is all one) <hi>Free<g ref="char:EOLhyphen"/>will</hi> and <hi>Conditionall election,</hi> whether becauſe he was touched with compuncti<g ref="char:EOLhyphen"/>on for his former errors, as he thinks them; or elſe to make his preſent opinions more taking and plauſible (as if he had not fell into them by chance, but got them after much and ſerious ſtudy) I find that he frequently doth uſher them in, by profeſ<g ref="char:EOLhyphen"/>ſing that he was once a <hi>Calviniſt</hi> (for that it
+<pb facs="tcp:112466:3"/>ſeemes muſt be the Name of Obloquie to thoſe, who, according to Scripture (of which <hi>Calvin</hi> was the beſt Interpreter, that God hath yet vouchſafed his Church) do maintaine <hi>Abſolute Predeſtination</hi>) but <hi>he was frighted into his wits</hi> (for ſo he is plea<g ref="char:EOLhyphen"/>ſed to play upon himſefe) by <hi>conſidering the Hor<g ref="char:EOLhyphen"/>rible conſequences of Abſolute Reprobation.</hi>
+            </p>
+            <p>Were I willing to make my ſelfe worke in this time of my retirement here, by engaging with a Perſon, who is, as ſome thinke very able, I am ſure very confident, and very Angry; I would not deſire greater advantage then theſe few words of his might give me: for to be an <hi>Arminian,</hi> I meane an Aſſerter of <hi>Univerſall Redemption,</hi> and of thoſe other Tenets which lead to it or flow from it, a very little paines will ſerve the turne; and every man is ſo Naturally apt to make himſelfe a ſharer with God, and to cozen himſelfe with hopes of mercy, that it is a much harder matter to eſcape thoſe opinions, then to attaine them. Beſides for any to be deferred from the maintenance of any truth in <hi>Theſi,</hi> becauſe it ſeemes attended with unanſwerable difficulties, and many ill conſequen<g ref="char:EOLhyphen"/>ces, is to my thinking very unreaſonable: ſince if that may be admitted, all the myſterious part of our Religion which containes the <hi>Credenda</hi> muſt never expect either to be entertained or defended. I might adde farther, that for any <hi>to be frighted into his wits,</hi> is a thing altogether unuſuall: and if it hath indeed in this matter ſo fared with that Gen<g ref="char:EOLhyphen"/>tleman,
+<pb facs="tcp:112466:3"/>he is the firſt who can boaſt of the Expe<g ref="char:EOLhyphen"/>riment.</p>
+            <p>But, my Lord, I am not deſirous to diſpute at all in theſe matters, much leſſe with one, who is ſo ta<g ref="char:EOLhyphen"/>ken up with abuſing perſons of greater worth, that he cannot find leaſure to take notice of one ſo In<g ref="char:EOLhyphen"/>conſiderable as my ſelfe: onely entending to handle ſome part of that queſtion which is now in conteſt, I muſt crave leave to profeſſe, that I never yet was ſatisfied, but that thoſe fatall conſequences, what<g ref="char:EOLhyphen"/>ever they are, which are thought to attend <hi>Abſolute Reprobation,</hi> they do as farre as I can ſee equally Accompany Gods <hi>Preſcience,</hi> of which yet this Gentleman is a zealous aſſertour. For if God foreſees who will refuſe the meanes of Grace, he foreſees likewiſe that he will aſſiſt one and not ano<g ref="char:EOLhyphen"/>ther: and that without ſuch particular Divine aſſi<g ref="char:EOLhyphen"/>ſtance, it is impoſſible any ſhould believe and be ſaved. Now what is this elſe, but for men at long runne, after much time miſpent in wrangling, to have recourſe unto <hi>Gods Abſolute</hi> but yet diſcri<g ref="char:EOLhyphen"/>minating <hi>Will</hi> and <hi>Power,</hi> which at their firſt ſet<g ref="char:EOLhyphen"/>ting out they were deſirous to decline.</p>
+            <p>As for thoſe Tragicall ſtories and dreadfull No<g ref="char:EOLhyphen"/>things, wherewith that Gentlemans writings, and before him <hi>Acta Synodalia</hi> are ſtuffed, concerning God's <hi>cruelty, Tyranny</hi> and I know not what elſe— As alſo the vaine and impertinent declaiming from the common places of Gods <hi>Juſtice,</hi> and <hi>mercy,</hi> thereby to enervate or at leaſt to Enveigh againſt
+<pb facs="tcp:112466:4"/>Gods <hi>Abſolute, Irreſiſtable,</hi> and <hi>Unaccountable Sove<g ref="char:EOLhyphen"/>raignty.</hi> All this terrible talke is nothing but Noiſe and Flouriſh, fit indeed to amuſe a country Audito<g ref="char:EOLhyphen"/>ry, or to impoſe upon a lazy and ſuperficiall reader; but certainly of very little weight with them, who dare not be frighted from, nor talked out of their faith, and who thinke Scripture truths are to be embraced and followed, in ſpite of all mens corrupt and empty reaſonings againſt them.</p>
+            <p>Out of the Scriptures therefore I have underta<g ref="char:EOLhyphen"/>ken briefly to demonſtrate theſe two things,</p>
+            <p>Firſt, <hi>That whatever opinion is manifeſtly revea<g ref="char:EOLhyphen"/>led in Scripture, (ſuch as I</hi> take Abſolute Reproba<g ref="char:EOLhyphen"/>tion to be) <hi>to argue againſt it, and by Artifices of Humane Wit, and Eloquence to ſeek to overthrow and diſgrace it, this is nothing elſe but to diſpute a<g ref="char:EOLhyphen"/>gainſt God, and impiouſly to be wiſe above what is written.</hi>
+            </p>
+            <p>Secondly, <hi>That God hath from all Eternity deſigned a particular Number unto Eternall life, and that this Election is Abſolute.</hi> From whence it followes, that all thoſe who are not by God in that Act of Abſolute Election appointed to life, they are reprobated, <hi>i.</hi> Deſigned for deſtruction; which Decree is Abſolute, made by Soveraigne Will, but Executed in juſtice.</p>
+            <p>And this my Lord, is the ſumme of the Enſuing Treatiſes; for the publiſhing of which, next to the care, every Chriſtian ſhould have to ſee the Truths of God, ſo farre as they are revealed to him aſſer<g ref="char:EOLhyphen"/>ted
+<pb facs="tcp:112466:4"/>and freed from cavill, eſpecially in a contra<g ref="char:EOLhyphen"/>dicting, and every way too quarrel ſome Age; I have no one outward motive more prevailing with me, then my, perhaps too great, Ambition of preſen<g ref="char:EOLhyphen"/>ting ſomething to your Lordſhip, whereby I might teſtify to the World, not onely that reall eſteeme I have of your Lordſhip's ſingular worth and emi<g ref="char:EOLhyphen"/>nence in generall, but likewiſe to manifeſt in parti<g ref="char:EOLhyphen"/>cular how mindfull I am of thoſe many ſignall and Unparallelled markes of Favour, which You have been pleaſed to conferre upon my ſelfe; for which, though the ſervice of my whole life will be too poore and meane a ſacrifice, and no endeavour can amount to deſerve the name of requitall, yet I could not but thinke it my duty to ſtudy an ac<g ref="char:EOLhyphen"/>knowledgment: which Zeale of mine, if your Lord<g ref="char:EOLhyphen"/>ſhip pleaſes either to accept or pardon, I have at<g ref="char:EOLhyphen"/>teined my end; For I aime at nothing more then the Honour of being owned for</p>
+            <closer>
+               <salute>My Noble Lord</salute> 
+               <signed>Your Lordſhip's moſt Obliged, moſt thank<g ref="char:EOLhyphen"/>full, and moſt Humble devoted Ser<g ref="char:EOLhyphen"/>vant <hi>EDVV. BAGSHAVVE.</hi>
+               </signed>
+               <dateline>
+                  <hi>Ch. Ch.</hi> 
+                  <date>
+                     <hi>Decemb.</hi> 20.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb facs="tcp:112466:5"/>
+            <pb n="1" facs="tcp:112466:5"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Romans 9.20.</hi>
+                  </bibl>
+                  <p>Nay but O man who art thou that replieſt againſt God.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He Apoſtle in this <hi>Chapter</hi> handling that great queſtion, why the <hi>Jewes,</hi> who were, by the Apoſtles own confeſſion, <hi>heires</hi> and <hi>Children of the Promiſes,</hi> ſhould now be omitted and caſt off; and the <hi>Gentiles,</hi> that before were <hi>Aliens,</hi> ſhould now be admitted and taken into <hi>the Covenant of Grace in Chriſt;</hi> he fixeth it upon <hi>God's Election:</hi> who being a <hi>moſt free A<g ref="char:EOLhyphen"/>gent</hi> chooſeth one and refuſeth another, <hi>according to His good pleaſure,</hi> and not out of any foreſight of their Workes, whether good or bad; for <hi>Jacob was loved and Eſau hated, even before they had done either good or Evill—verſ.</hi> 11.</p>
+            <p>This Doctrine ſo much detracting from the merit, and thereby abaſing the pride of man, the Apoſtle foreſaw would not be eaſily digeſted, and therefore he Repeats and Anſwers the moſt obvious of thoſe objections, which were likely upon a rationall account to be made againſt it; and which in ſhort doe containe the ſumme of what<g ref="char:EOLhyphen"/>ever can be urged in this point.</p>
+            <p>The firſt Objection is couched <hi>verſ.</hi> 14. <hi>What ſhall we ſay then is there unrighteouſneſſe with God—?</hi>
+            </p>
+            <pb n="2" facs="tcp:112466:6"/>
+            <p> As if the Apoſtle had ſaid.—You may object: if it be ſo, that the reaſon why one man believes, and another doth not; and conſequently that one man ſhall be ſaved and another damned be only from <hi>God's Election,</hi> and not from their <hi>merit,</hi> doth not this argue ſome <hi>unrighteouſneſſe in God?</hi> a kind of injuſt <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>reſpect of Perſons,</hi> thus to preferre one man before another? For as all men are equall by nature, ſo it ſeemes to be moſt juſt and reaſonable, that they ſhould be equall in condition too; &amp; not this vaſt difference, as to their finall eſtate, to be put between the<g ref="char:cmbAbbrStroke">̄</g>, without any deſert or merit of the parties.</p>
+            <p>To the Objection thus framed, the Apoſtle returnes a double Anſwer.</p>
+            <p n="1">1. In a phraſe of abhorrency-<hi>Is there unrighteouſneſſe with God? God forbid;</hi> let not ſuch a thought enter into our hearts; for whatever the iſſue of Gods dealings may be, yet, as to the cauſe of the<g ref="char:cmbAbbrStroke">̄</g>, this foundation ſtandeth ſure, that <hi>God is righ<g ref="char:EOLhyphen"/>teous in all his doings; and will be juſtified when he is judged.</hi>
+            </p>
+            <p n="2">2. By inſtancing in the example of <hi>Pharaoh,</hi> whom, God ſaith, <hi>he raiſed for this very purpoſe, to manifeſt His Glory;</hi> from whence the Apoſtle concludes—<hi>v.</hi> 18. <hi>That God hath mercy, on whom he will have mercy, and whom he will he hardeneth— i.</hi> that we are not to looke for any outward cauſe of Gods actings; for he is not tied to mans endea<g ref="char:EOLhyphen"/>vour, ſince all our good is from him, and therefore can me<g ref="char:EOLhyphen"/>rit nothing at his hands: He ordaines happineſſe, and beſtowes holineſſe on whom he pleaſes; they are both free<g ref="char:EOLhyphen"/>gifts, we cannot naturally deſerve the one, nor are we wil<g ref="char:EOLhyphen"/>ling to deſire the other—God therefore <hi>hardens</hi>— i.He lets the ſinner be a ſinner ſtill; he doth not remove the ſtone, but lets men perſiſt and goe on in their naturall hardneſſe; for he is not obliged to his creature, but acts all things, both in mercy or otherwiſe, according to the Di<g ref="char:EOLhyphen"/>ctates of his <hi>Abſolute, Soveraigne</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>naccountable Will.</hi>
+            </p>
+            <p>This Anſwer being ſo ſtrict and ſevere, as leaving the
+<pb n="3" facs="tcp:112466:6"/>greateſt part of mankind in an hopeleſſe and irrecoverable conditio<g ref="char:cmbAbbrStroke">̄</g>, it is objected again. <hi>v.</hi> 19—<hi>Thou wilt then ſay unto me, why doth he yet find fault, for who hath reſiſted his will?</hi> i. If it be ſo, that <hi>it is not in him that wills, nor in him that runs,</hi> but <hi>on<g ref="char:EOLhyphen"/>ly in God that ſhowes mercy:</hi> if by any action of ours, bare<g ref="char:EOLhyphen"/>ly as ſuch, we can neither merit Heaven, nor eſcape Hell; if our wills are tyed up ſo cloſe to the will of God, that like leſſer wheeles they move onely as that great mover doth guide them?—then, why is God ſo Angry with ſin and ſin<g ref="char:EOLhyphen"/>ners? Why doth he forbid, dehort, and threaten by his Prophets! To what end ſerve all thoſe examples of ven<g ref="char:EOLhyphen"/>geance, which we tremble to read of? for if it be ſo with us, we may be miſerable, but we cannot be ſinfull; if our ſpirits be put into an unſuitable frame, ſo as that we walke contrary to God, it is our ſad neceſſity and not our fault; ſince none can <hi>alter,</hi> much leſſe <hi>reſiſt the will of God,</hi> which alone hath made us ſo.</p>
+            <p>And now the Objection being preſſed to ſuch a degree of impiety, that it doth tacitely lay the guilt of all mens Tranſgreſſions upon God, the Apoſtle thinkes it high time to cut off all farther Arguing, which he doth in theſe words—<hi>Nay, but what art thou, O man, who replieſt againſt God?</hi> As if he had ſaid—Doſt thou know who thou art, thou bold inquiſitive creature, or who it is thou dealeſt with? Conſider that thou art but a man, and wilt thou queſtion thy Maker's Juſtice? Forbeare vaine preſumptu<g ref="char:EOLhyphen"/>ous man, ſtand off, and lay thy hand upon thy mouth, for God is in the Buſh, God is at the bottome of this diſpute, and therefore admire with reverence, what thou canſt not comprehend with reaſon.</p>
+            <p>So that the words are a ſhort, but yet ſharpe, confuta<g ref="char:EOLhyphen"/>tion of all carnall reaſonings in the matters of God: ſuch Debates are evinced not onely to be ſinfull, but like<g ref="char:EOLhyphen"/>wiſe unreaſonable, by a threefold Argument lying in theſe words.</p>
+            <p n="1">
+               <pb n="4" facs="tcp:112466:7"/> 1. The firſt is taken <hi>from the meanneſſe and contemptible<g ref="char:EOLhyphen"/>neſſe of the perſon diſputing;</hi> and that is man: The Apoſtle brings him in with a <hi>Quis Tu! What art Thou!</hi> as if he was of ſo ſlight a make and value, that he fell under no defini<g ref="char:EOLhyphen"/>tion. <hi>What art thou O man!</hi>
+            </p>
+            <p n="2">2. <hi>From the Greatneſſe and Incomprehenſible Excellence of the Perſon diſputed againſt,</hi> and that is <hi>God</hi>—a name able to ſtrike dumbe and coufound the moſt exalted reaſon. —<hi>What art thou O man who diſputes againſt God?</hi>
+            </p>
+            <p n="3">3. <hi>From the Abſurd, Sawcy and Malapert manner of car<g ref="char:EOLhyphen"/>rying on the Diſpute;</hi> it is not modeſtly making an Ob<g ref="char:EOLhyphen"/>jection, or propoſing a doubt and ſo away; but a reſolved perſiſting in the Cavill; a kind of challenging God to vy Arguments with him. The word is—<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>—<hi>To anſwer againe and againe;</hi> never to give over; to chop Logick with God, to ſeek to nonplus him, and to drive his Almighty Power and Wiſdome to an abſurdity.</p>
+            <p>So that here is man, vaine man, not diſputing but Cavil<g ref="char:EOLhyphen"/>ling, and that not with his fellow-creature but with God—put all this together—Empty, Ignorant, Wretched Man, conteſting with a Perfect, Wiſe and Allmighty God; and that in ſuch a way too, as if Man were the better, &amp; the wi<g ref="char:EOLhyphen"/>ſer of the too. Strange folly, madneſſe &amp; impudence, this! &amp; yet whoever gives his reaſon the reines, &amp; will reſolve to diſpute when he ſhould obey, muſt needs be guilty of it.</p>
+            <p>The words thus explained and divided may be ſummed up in this one Propoſition—or Doctrine—viz.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> 
+               <hi>Man, in whatever Capacity conſidered, is not a Competent Judge, of the Equity and Juſtice of the proceedings, waies and Counſells of God, in the diſpeſing and Ordering of his Crea<g ref="char:EOLhyphen"/>tures.</hi>
+            </p>
+            <p>This may be demonſtrated two waies</p>
+            <p n="1">1. Firſt, <hi>from the quality and nature of the Perſon Judg<g ref="char:EOLhyphen"/>ing,</hi> and that is Man.</p>
+            <p n="2">2. Secondly, <hi>from the Quality and nature of the things
+<pb n="5" facs="tcp:112466:7"/>to be judged.</hi> The Wayes and Counſells of God.</p>
+            <p>In the Firſt I ſhall prove that <hi>man is not fit to Judge.</hi>
+            </p>
+            <p>In the Second I ſhall prove <hi>that the Counſells of God, neither do nor can fall under mans Judgement.</hi>
+            </p>
+            <p>For the Firſt, viz. <hi>That Man is not fit to Judge,</hi> it will be cleare, if we conſider that there are Two things, eſpe<g ref="char:EOLhyphen"/>cially requiſite to qualify a man to be a Judge.</p>
+            <p n="1">1. <hi>Ability</hi> or <hi>Skill.</hi>
+            </p>
+            <p n="2">2. <hi>Authority</hi> or <hi>Power.</hi> And Man wants both in this Caſe.</p>
+            <p n="1">1. Firſt, <hi>Man wants Ability or Skill. Vaine man,</hi>
+               <note place="margin">cap. 11.12.</note> ſaith <hi>Job, would be wiſe, though he be borne like the wild aſſe Colt.</hi> — i. e. Man would ſtill reteine his Ambitious Hu<g ref="char:EOLhyphen"/>mour of pretending <hi>to know Good and Evill;</hi> he would ſtill exalt himſelfe, and <hi>be like God;</hi> although that very Deſire has made him become, <hi>like the Beaſts which periſh,</hi> Raſh, Heady, and Impertinent. For ſince our Fall, Pride has ta<g ref="char:EOLhyphen"/>ken up the Place of Reaſon; and Arrogance fills that Roome, which Knowledge poſſeſſed before. As in a veſ<g ref="char:EOLhyphen"/>ſell, when Water, or the more ſolid body goes out, pre<g ref="char:EOLhyphen"/>ſently Aire comes in.</p>
+            <p>To take a Briefe Survey of mans Weakneſſe and Inabi<g ref="char:EOLhyphen"/>lity, we will conſider him
+<list>
+                  <item>1 In Himſelfe.</item>
+                  <item>2 As compared to God.</item>
+               </list>
+            </p>
+            <p n="1">1 Firſt, Conſider Man in himſelfe, and then I may aske the Queſtion, which our Apoſtle doth here, <hi>What art then O Man?</hi> Declare us thy Originall, diſcover thy Excel<g ref="char:EOLhyphen"/>lence; where lies thy Worth? whence comes thy Prehe<g ref="char:EOLhyphen"/>minence? Survey thy Out-ſide, and tell me what ſeeſt thou? a rotten periſhing Carkaſſe! As our Saviour ſaid of the <hi>Tombes,</hi> how glorious ſoever they ſeemed; yet they were but <hi>Tombes,</hi> i.e. Charnell-houſes; Faire without, but Rotten within. So the moſt Beautifull and Specious
+<pb n="6" facs="tcp:112466:8"/>out-ſide, Deck it, Diſguiſe, Trimme and Adorne it how you will, yet it is ſtill but Duſt; you may change and vary its ſhape, you cannot change and alter its ſub<g ref="char:EOLhyphen"/>ſtance.
+<note place="margin">
+                  <hi>Gen.</hi> 11.19.</note> 
+               <hi>Duſt thou art,</hi> ſaid God to <hi>Adam, and to duſt ſhalt thou returne.</hi> Was not this a ſad ſtory for <hi>Adam</hi> to heare; when he thought of nothing elſe, but of being, as the Divell had promiſed him, <hi>like unto God knowing goood and evill:</hi> God doth preſently undeceive him, by minding him of his Originall, and telling him what would be the Exit of all his Borrowed Glory. This no doubt did levell his Thoughts, and lay low thoſe Proud Imaginations, which otherwiſe might have ceazed him; ſince a Casket of ſo meane a value, can ſcarce be conceived to conteine in it a Jewell of any Excellent Price.</p>
+            <p>
+               <hi>I will not,</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> 6.3.</note> ſaies God, <hi>alwaies ſtrive with man, for that he alſo is fleſh:</hi> which may be interpreted, for that he is of the ſame weak, Fraile, and Infirme Nature with other Creatures. Wherein God ſeemes to make it as an Ar<g ref="char:EOLhyphen"/>gument of his Bearing with man, becauſe Man was <hi>Fleſh,</hi> i.e. unable to beare what God was able to lay upon him. But if God drawes an Argument of Compaſſion from Mans Frailty, ought not we from thence likewiſe to draw an Argument of Submiſſion? If God is pleaſed to forbear puniſhing and ſtriving with us, becauſe we are but <hi>Fleſh,</hi> ought not we for the ſame Reaſon much more to forbear judging of,
+<note place="margin">
+                  <hi>Gen.</hi> 18.27.</note> and contending with him? This uſe did <hi>Abraham</hi> make of it. <hi>Behold,</hi> ſaith he, <hi>I have now ta<g ref="char:EOLhyphen"/>ken upon me to ſpeake unto the Lord, who am but Duſt and Aſhes: Abraham</hi> lookes upon it as a Boldneſſe, for which he ſeems to aske Pardon, that he undertook ſo much as to ſpeak to God, <hi>ſince he was but Duſt and Aſhes;</hi> how much leſſe do we thinke for the ſame reaſon would he have offered to have diſputed with him? But</p>
+            <p>Secondly, look into man a little nearer, and ſearch his Inward and Hidden worth: what is that Principle which
+<pb n="7" facs="tcp:112466:8"/>men ordinarily do ſo much boaſt of and magnify? They call it <hi>Reaſon!</hi> and pray what is <hi>Reaſon?</hi> Is it not that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that <hi>Carnall or Animall man,</hi>
+               <note place="margin">1 <hi>Cor.</hi> 11.14.</note> 
+               <hi>which cannot conceive the things of God,</hi> and looks <hi>upon all the Actings of the Holy Spirit as Folly!</hi> Certainly a ſmall wind will fill our Saile, if ſuch a Principle of knowledge as this can puffe us up: little cauſe have we to boaſt of that, which coſt us ſo deare, and is ſo little worth: for as to get Rea<g ref="char:EOLhyphen"/>ſon, we loſt Paradiſe; ſo till we renounce our Reaſons, we can never recover it.</p>
+            <p>But take Reaſon at its beſt and higheſt Elevation,
+<note place="margin">
+                  <hi>Prov.</hi> 20.27.</note> 
+               <hi>Sa<g ref="char:EOLhyphen"/>lomon</hi> ſayes it is <hi>the Candle of the Lord:</hi> and ſhall the Can<g ref="char:EOLhyphen"/>dle ſay to the Sun, thou haſt no Light in thee? Shall our Faint, Glimmering, and Derivative Luſtre, preferre or oppoſe it ſelfe to the Fountaine, from which it iſſued? <hi>There is a Spirit in man,</hi> ſaith <hi>Job,</hi>
+               <note place="margin">cap. 32.8.</note> 
+               <hi>but the Inſpiration of the Almighty giveth underſtanding:</hi> and do we think he gave it for theſe purpoſes, to argue and diſpute his doings? ſo much to abuſe and miſimploy our Talent, is certainly a greater ſin, and will bring down a greater Puniſhment, then barely not to uſe it.</p>
+            <p>In ſhort, mans Reaſon at its beſt and utmoſt extent, is a Narrow, Shrunke, and Limited thing; in Spirituall things altogether blind and perverſe: in Naturall things either Ignorant, or onely changing Ignorance into Un<g ref="char:EOLhyphen"/>certainty: and ſhall a man ſo much ſtretch this Principle, as by it to condemne his Maker? ſhall we with this ſcant<g ref="char:EOLhyphen"/>ling meaſure Infinity? or ſet our ſelves Judges in the high<g ref="char:EOLhyphen"/>eſt adminiſtrations of Providence, who cannot demon<g ref="char:EOLhyphen"/>ſtratively prove the Motion of the ſmalleſt Atome? what is this but <hi>to darken Counſell by words without knowledge;</hi>
+               <note place="margin">
+                  <hi>Job</hi> 38.2.</note> to put a Falſe Comment upon a Cleare Text, and to blurre the beauty of Providence with our Perverſe and ſhort-ſighted Interpretations.</p>
+            <p>Secondly, Mans Inability doth yet farther appeare, if
+<pb n="8" facs="tcp:112466:9"/>you conſider him as compared to God. It is not for no<g ref="char:EOLhyphen"/>thing here that the Apoſtle doth put this Queſtion, <hi>Who art thou, O Man, that replyeſt againſt God?</hi> but he does it, thereby to aggravate the Sinfull Preſumption of the Diſputer; it was againſt God, therefore the more heinous. And indeed a man can never know his owne Weakneſſe and Imperfection aright, till he has loſt him<g ref="char:EOLhyphen"/>ſelfe in contemplating the Vaſt Abyſſe and Ocean of Gods Perfection: as if we would exactly know whether a thing be little or not, we do not uſe to ſet it by ſome<g ref="char:EOLhyphen"/>thing that is leſſe, but to compare it unto ſomething Greater, as a Sparke to the Flame, a Drop to the Ocean, and the like. So in this caſe, while a man Centers in him<g ref="char:EOLhyphen"/>ſelfe, and drawes all his Lines inward; he may perhaps pleaſe himſelfe with ſome thoughts of <hi>Selfe-ſufficiency;</hi> but when he once goes out of himſelfe, and takes a ſtrict view of the Amazing Greatneſſe and Majeſty, which God diſcovers even in his works of Providence, then doth a man preſently begin to perceive his own Emptineſſe. For ſuppoſe a man were kept up cloſe impriſoned in a Dun<g ref="char:EOLhyphen"/>geon all his dayes, and if after ſome time of Durance there in that Horror and Darkeneſſe, he ſhould by chance have a little Glimpſe of light let in to him at a ſmall Cranny, how infinitely would he be delighted and pleaſed with it; but if afterwards he were taken from thence, and by de<g ref="char:EOLhyphen"/>grees fitted to endure, and then placed in full Sun-ſhine, how ſtrangely would he loath his former place of Re<g ref="char:EOLhyphen"/>ſtraint and Bondage? It is juſt ſo with a man, who by degrees is taken off from himſelfe, and prepared to a gracious Diſcovery of Gods excellence. <hi>When</hi> I <hi>conſider,</hi> ſaith the Pſalmiſt, <hi>the Heavens, which are the worke of thy hand</hi>—it followes preſently, <hi>what is man that thou art mindfull of him,</hi>
+               <note place="margin">
+                  <hi>Pſ.</hi> 18. v. 3, 4.</note> 
+               <hi>or the Son of Man that thou conſidereſt him?</hi> Look upon God in the Glory and Brightneſſe of his Appearance, and then all Conceits of Humane Excel<g ref="char:EOLhyphen"/>lence
+<pb n="9" facs="tcp:112466:9"/>will preſently vaniſh, as Starres do diſappeare at Noon-day.</p>
+            <p>Certaine it is, that if men were more frequent and ſerious in the contemplating of Gods Power and Wiſe<g ref="char:EOLhyphen"/>dome, they would not be ſo taken up with thoughts of their own; a want of comparing our own emptineſſe to Gods fullneſſe, is the only thing that doth moſt puffe us up and ſwell us. A pregnant Inſtance of this may be ſeen in the Caſe of <hi>Job;</hi> he finding himſelfe under a great Preſſure, and feeling, as he thought, hard meaſure from God, grows Impatient, and ſeems to long for nothing more, then that he might diſpute with God; thinking no doubt but he had ſo much to ſay in his own behalfe, as would poſe even God himſelfe to anſwer. Hence are thoſe Paſſionate Expreſſions,—<hi>Oh that a man might plead with God, as a man pleades for his Neighbour;</hi> and <hi>Oh!</hi>
+               <note place="margin">cap. 16. cap. 32.3, 4.</note> 
+               <hi>that I knew where I might find him, that I might come even to his Seat! I would order my Cauſe before him, and fill my mouth with Arguments.</hi> i.e. I would Diſpute and Argue the Caſe with him: his Friends diſſwade him from this At<g ref="char:EOLhyphen"/>tempt all they can, they tell him over and over, that <hi>he forgets himſelfe in turning his Spirit againſt God,</hi>
+               <note place="margin">cap. 15.13.</note> 
+               <hi>and in let<g ref="char:EOLhyphen"/>ting ſuch words goe out of his mouth.</hi> And when that would not take him off, <hi>Elihu</hi> undertakes to anſwer in Gods behalfe, and urgeth againſt him, that <hi>God is greater than Man, and gives no account of his Matters.</hi>
+               <note place="margin">cap. 34.23.</note> That his <hi>Coun<g ref="char:EOLhyphen"/>ſells are Inſcrutable,</hi> for <hi>touching the Almighty who can know him, or ſearch him out unto Perfection.</hi>
+               <note place="margin">cap. 37.23.</note> With many o<g ref="char:EOLhyphen"/>ther arguments to the ſame purpoſe; yet ſtill <hi>Job</hi> remains unſatisfied, and nothing but diſputing with God himſelfe will content him. Well! at laſt God doth condiſcend to anſwer his Curioſity: and what is the Iſſue? when once God doth mind him of his Power, that all we ſee or feele is only an Effect and Product of his Goodneſſe: when e<g ref="char:EOLhyphen"/>ven the moſt common and ordinary <hi>Phaenomena</hi> of Na<g ref="char:EOLhyphen"/>ture,
+<pb n="10" facs="tcp:112466:10"/>viz.
+<note place="margin">
+                  <hi>Job.</hi> 38.</note> Haile, Snow, Raine, &amp;c. are evinced to be be<g ref="char:EOLhyphen"/>yond the reach of mans Reaſon to comprehend, then <hi>Job</hi> preſently alters his Note, he is not now for Diſputing any longer, but ſinkes into an humble Acknowledgment. <hi>Be<g ref="char:EOLhyphen"/>hold I am vile,</hi>
+               <note place="margin">cap. 40.2, 3, 4.</note> ſaith he, <hi>what ſhall I anſwer thee? I will lay my hand upon my mouth.</hi>— A dejected ſenſe of our own vileneſſe is moſt likely to be the Reſult of comparing our ſelves to Gods Excellence.</p>
+            <p>Thus man wants Ability to Judge.</p>
+            <p n="2">2<hi rend="sup">o</hi>. Secondly, as man wants <hi>Ability,</hi> ſo likewiſe he wants <hi>Authority,</hi> which is the Eſpeciall Requiſite to conſtitute a Judge. When one came to our Saviour to ask his Reſo<g ref="char:EOLhyphen"/>lution in a caſe of a Civill concernment; our Saviour, though he had all power in him, yet acting as Man, refu<g ref="char:EOLhyphen"/>ſed to meddle,
+<note place="margin">
+                  <hi>Luc.</hi> 12.14.</note> and askes him, <hi>Who made me a Judge?</hi> So I aske thee, thou Bold Diſputer, whoever thou art, who made thee a Judge? and by what Authority doſt thou ar<g ref="char:EOLhyphen"/>gue theſe things? if thou haſt no Warrant, nothing in the Word of God to ſhew to juſtify thy Confidence, thou art not only a Raſh and Ignorant Cenſurer, but an Im<g ref="char:EOLhyphen"/>pudent Intruder. I find in Scripture murmuring repro<g ref="char:EOLhyphen"/>ved, Diſputing forbidden, and nothing but Obedience required. Wilt thou then upon no better a Ground, then becauſe thou art unſatisfied with the Juſtice or Reaſona<g ref="char:EOLhyphen"/>bleneſſe of ſuch and ſuch a Proceeding, take upon thee to ſound the Depths of God, and to call him to thy Tri<g ref="char:EOLhyphen"/>bunall? what? ſhall the <hi>Judge of all the Earth</hi> be now ar<g ref="char:EOLhyphen"/>raigned at thy Barre, and <hi>give the Account of his Matters?</hi> or elſe thou wilt charge upon him Folly, Injuſtice or Cru<g ref="char:EOLhyphen"/>elty, with other things, which I Tremble to Thinke of. <hi>Quo jure!</hi> how comes this about, let us know when God parted with his Prerogative, and made you his Overſeer?</p>
+            <p>The Apoſtle <hi>James</hi> commanding thoſe to whom he writes, <hi>not to ſpeak evill one of another,</hi> he gives this Reaſon for it, <hi>becauſe thereby they ſhould judge the Law,</hi> which for<g ref="char:EOLhyphen"/>bids all Uncharitable Backbitings. <hi>But,</hi> ſaith he, <hi>if thou
+<pb n="11" facs="tcp:112466:10"/>Judge the Law, thou art no longer a Doer of the Law,</hi>
+               <note place="margin">
+                  <hi>Jac.</hi> 4.11.</note> 
+               <hi>but a Judge,</hi> i.e. Thou art a Thing which God never intended thee; he gives his Law to be a Rule of thy Obedience, and not a Subject of thy Reaſoning. So ſay I here, if any takes upon him to Judge Gods proceedings, i.e. if thou weigheſt his wayes in thy Ballance, if thou mea<g ref="char:EOLhyphen"/>ſureſt him by thy Line, if thou doeſt Limit &amp; circumſcribe him by thy Compaſſe, and ſo proceedeſt to paſſe Sentence upon him; in this caſe thou art no longer a Servant of the Lords, but a Judge: and then thou mayeſt expect and feare what will follow; for if ſo many periſhed at one time barely for looking into the Arke; and if <hi>he that judges another,</hi> though his fellow-creature, is threatned <hi>to be Judged,</hi> how much ſorer Puniſhment, how much ſe<g ref="char:EOLhyphen"/>verer Judgment ſhall he expect, who thus provokes the Lord by Judging, Cenſuring, and even Condemning him?</p>
+            <p>So much for the firſt Reaſon: that Man is not fit to Judge.</p>
+            <p>The ſecond Reaſon is taken from the Nature and Quality of the things Judged, they are the Wayes, Coun<g ref="char:EOLhyphen"/>ſells, and proceedings of God, and ſo cannot fall under Mans Judgment. Thus the Apoſtle doth argue <hi>à pari: As no man can know the things of man, but the Spirit of man that is in him; ſo none can know the things of God,</hi>
+               <note place="margin">1 <hi>Cor.</hi> 11.11.</note> 
+               <hi>but the Spi<g ref="char:EOLhyphen"/>rit of God.</hi> Shall God be God, and not have peculiar wayes and Methods of Acting, not to be fathomed or under<g ref="char:EOLhyphen"/>ſtood by man? He himſelfe hath told us to prevent our ſearch, that <hi>his wayes are not as our wayes,</hi>
+               <note place="margin">
+                  <hi>Iſ.</hi> 4.8.</note> 
+               <hi>nor his thoughts as our thoughts.</hi> He is not tied to our Narrow Definitions of <hi>Juſt</hi> and <hi>Injuſt,</hi> they are words onely that bind us, but can lay no conſtraint upon him, who acts, like himſelfe, in a <hi>Soveraigne</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nlimited</hi> manner. Now, as in an En<g ref="char:EOLhyphen"/>gine, if we do not ſee the Springs and Wheeles that move it, it is impoſſible we ſhould know how or which way it will turne; ſo ſince we cannot diſcerne or diſcover the
+<pb n="12" facs="tcp:112466:11"/>Principle, upon which the Great Mover and Diſpoſer of all things acts, this being locked up and hid in the Ca<g ref="char:EOLhyphen"/>binet of his own Will, to which only his Son and Spirit have a key, we have nothing to doe but to ſubmit in Si<g ref="char:EOLhyphen"/>lence. <hi>Whatever God doth,</hi> ſaith the Preacher, however it may appeare outwardly Deformed or Miſ-ſhapen, yet <hi>nothing can be added to it or taken from it:</hi>
+               <note place="margin">
+                  <hi>Eccl.</hi> 3.14.</note> it hath in it ſelfe an Entire and Abſolute Perfection; and the reaſon why God doth ſometimes bring ſtrange and perplexing things to paſſe, is, that men might diſpute! no, but <hi>that they might feare before him.</hi>
+            </p>
+            <p>The uſe is,
+<label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>
+               </label> if it be ſo, that <hi>no man is a Competent Judge of the Equity and Juſtice of Gods Proceedings,</hi> then it ſhould Teach us, <hi>to ſilence our Vaine Reaſonings in the Matters of God:</hi> we ſhould look upon them as Myſteries beyond our Reach, and therefore infinitely above our Cavill. Per<g ref="char:EOLhyphen"/>haps it is not a Rationall, I am ſure it is not a Chriſtian way of Arguing, <hi>Non intelligo, ergo non Credo.</hi> This I do not underſtand, I cannot perceive how ſuch or ſuch a point can be made out by Reaſon, or can conſiſt with thoſe Concluſions which I have embraced, therefore I will not believe it. It is the Taske, and it ſhould be the Triumph of Faith, to break through all ſuch Difficulties, &amp; to remove even Mountaines of ſeeming Contradictions.
+<note place="margin">1 <hi>Joh.</hi> 5.4:</note> The Apo<g ref="char:EOLhyphen"/>ſtle calls <hi>Faith our Victory, by which we overcome the World;</hi> and if <hi>Faith</hi> overcomes the <hi>World,</hi> how much more ought it to overcome our Doubts, and our Reaſonings, which are but as it were the Clouds and Miſty part of the World. When our Saviour had diſcourſed concerning that great Myſtery of Living and Feeding upon him by Faith;
+<note place="margin">
+                  <hi>John</hi> 6.60.</note> the Apoſtles preſently cry out, <hi>This is an hard ſay<g ref="char:EOLhyphen"/>ing, who can beare it?</hi> this is ſo Abſurd and Irrationall, that there is no enduring it. Our Saviour perceiving how they ſtaggered, he doth gently acquaint them with the Reaſon of their Erroneous Apprehenſion, viz. becauſe
+<pb n="13" facs="tcp:112466:11"/>they judged according to fleſh, and humane appearance, <hi>the Spirit,</hi> ſaith he <hi>quickneth, the fleſh profiteth nothing, my words they are ſpirit and they are life. v.</hi> 63.</p>
+            <p>To apply this—doth any dealing of God, put thee into an Anxious and a diſputing State, by all means ſuſpend thy cenſure, leaſt thou ſhouldſt <hi>charge God fooliſhly;</hi> and ſearch firſt into the principle by which thou proceedeſt, whether it be <hi>Fleſh</hi> or <hi>Spirit:</hi> for <hi>reaſon</hi> it ſelfe, till it be purged, till the dreggs be taken off and refined by the ſpirit of God, it is ſtill but <hi>Fleſh,</hi> a weake, low and carnall Principle, not at all fit for a Chriſtian to own: but is indeed one of thoſe earthly members, which we are commanded to ſub<g ref="char:EOLhyphen"/>due and Mortifie. To diſtruſt our own underſtandings, not to paſſe ſentence upon the firſt bluſh and offer of things, nor in ſpirituall concernments to be led by Humane appearance, this is the firſt and moſt Neceſſary part of <hi>ſelfe-deniall.</hi>
+            </p>
+            <p>This uſe may be improved in many Particulars, but there are two things I mainly intend it for.</p>
+            <p n="1">1. Firſt, <hi>to fix, and ſettle our ſpirits, in that great, and ſo much Controverted Doctrine, concerning Gods decrees of eter<g ref="char:EOLhyphen"/>nall Election and Reprobation.</hi>
+            </p>
+            <p n="2">2. Secondly <hi>To ſuppreſſe and ſilence our murmurings, and repinings againſt God, in his Acts of Providence and outward dealings with us.</hi>
+            </p>
+            <p>Firſt the conſideration of mans unfitneſſe to Judg in the matters of God, ought <hi>to ſettle and fix us in the Doctrine of Election and Reprobation.</hi> That God <hi>hath from all eter<g ref="char:EOLhyphen"/>nity choſen ſome, on whom he will have mercy: and hath, out of his good pleaſure, reprobated others,</hi> is cleare from this and many other places of Scripture. But to recon<g ref="char:EOLhyphen"/>cile this to Humane reaſon, or to ſatisfy all the Objections which may be brought from Philoſophy againſt it, I think the Apoſtle himſelfe did not pretend to doe. Here in this verſe, he ſeemes to Imply, that the beſt way to <hi>decide</hi>
+               <pb n="14" facs="tcp:112466:12"/>this controverſy, is not to <hi>diſpute</hi> it and in another place, when in a kind of Extaſie he cries out <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>;—<hi>Oh the Depth, of the Riches of the knowledge and wiſedome of God: How inſcrutable are his Judgments, and his waies unſearchable?</hi> Rom. 11.33. certainly he did thereby intend to put a ſtop unto our enquiry, that we might not venture into a depth, which we could not fathome.</p>
+            <p>What is ſaid by all ſides in this diſpute, I have often, as farre as my weakneſſe would give me leave, conſidered, but yet could never find ſatisfaction in any thing, but in that queſtion of the Apoſtles, and in bringing my reaſon to a <hi>Non pluſſe.</hi>
+            </p>
+            <p>For whatever the <hi>Arminians</hi> pretend that the Doctrine of <hi>Abſolute Predeſtination</hi> is <hi>Blaſphemous,</hi> and I know not what, becauſe it ſeemes to make <hi>God the Author of Sin;</hi> yet indeed it doth no more do it, if it be well weighed, then their Doctrine of <hi>Preſcience</hi> doth: for which reaſon, <hi>Socinus,</hi> who very well underſtood the Controverſy, did not feare to deny even <hi>Preſcience</hi> it ſelfe: ſince whatever is infallibly fore-known, muſt infallibly come to paſſe, that is neceſſarily. For to diſtinguiſh between the ne<g ref="char:EOLhyphen"/>ceſſity of the event, and the neceſſity of that which cau<g ref="char:EOLhyphen"/>ſes the event, is, I confeſſe a ſubtilty that I underſtand not, and am hopeleſſe ever to be ſatisfied in.</p>
+            <p>Leaving therefore the Diſputers of this Age, to the mercileſſe Fury of one anothers Penns, I ſhall give ſome few Practicall rules, whereby whoever guides himſelfe, will be freed from all thoſe perplexities which his reaſon other<g ref="char:EOLhyphen"/>wiſe would engage him in.</p>
+            <p>Firſt, <hi>In all doubts never enquire what is rationall, but what is revealed:</hi> the Word of God alone, which is the ground of our Faith, ought to be the object of our ſearch. If you find this Doctrine, that <hi>God hath prepared ſome, even for everlaſting deſtruction, whilest he hath compaſſion on others, and that meerely to manifeſt his own Glory</hi>—if
+<pb n="15" facs="tcp:112466:12"/>this Doctrine be plainly laid down thee, then farewell Reaſon, and ſet your Faith on worke, to find out carefully of which number you your ſelves are. For there are the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>the Saved</hi> and <hi>the Loſt,</hi> whoſe condition is as ſure and Irreverſible as if they were in Poſſeſſion of it already.</p>
+            <p>Secondly, <hi>Let no doubts or Perplexities take you off from your obedience.</hi> As no man needs feare to embrace Goſ<g ref="char:EOLhyphen"/>pell-Truth upon its own termes, ſo neither ought he by any conſequences of vaine &amp; Carnall reaſoning to be with<g ref="char:EOLhyphen"/>drawn from the doing of his duty. He that finds in him<g ref="char:EOLhyphen"/>ſelfe ſuch a frame, that he is reſolved to goe on, and leave the Iſſue to God; though he periſh yet he will truſt in him; he will find at laſt all his darkneſſe and doubtings cleared up and ſcattered: for then we believe indeed, when with <hi>A<g ref="char:EOLhyphen"/>braham</hi> we act even againſt &amp; beyondall <hi>Humane Probability.</hi>
+            </p>
+            <p>Thirdly—<hi>Be often asking your ſelves this Queſtion with the Apoſtle—what am I,</hi> that I ſhould limit the Almighty, or Iudg the Holy one of Iſrael? What are we, poore duſt and aſhes, that we ſhould looke up to God except it be with trembling and amazement: to admire and not to di<g ref="char:EOLhyphen"/>ſpute his doings? For what are we, that we ſhould be pre<g ref="char:EOLhyphen"/>ſcribing rules to him, and finding out new waies and me<g ref="char:EOLhyphen"/>thods of ſalvation, others then God himſelf hath been pleaſed to diſcover? What are we, that we ſhould ſit upon the Decrees of God, and ſtaine the wiſedome of his coun<g ref="char:EOLhyphen"/>ſells, with the dirt and mire of our own fancies? This Impartiall ſelfe examination will ſerve to cure, or at leaſt to allay our Curioſity.</p>
+            <p>Laſtly—<hi>In all diſputes and doubts: ever think that part of the tenet ſafeſt, which doth leaſt Humor mans Pride, and doth moſt advance Gods Glory:</hi> we cannot think too meanly and humbly of our ſelves, nor can we too much advance and exalt Gods <hi>Soveraignty.</hi> Tis this on which the Juſtice of all Gods proceedings is grounded: iet God be Great and
+<pb n="16" facs="tcp:112466:13"/>Glorious, though every man be miſerable. To make God <hi>all in all,</hi> beſides that it is our duty, is likewiſe nothing elſe but an Anticipation of happineſſe, and is by the Apoſtle recorded—to be the Bleſſed Poſture, of our ſuture ſtate. 1 <hi>Cor.</hi> 15.28.</p>
+            <p>Secondly,
+<label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>2</label> The conſideration of our <hi>Incompetence to Judge the equity of Gods proceedings,</hi> ſerves <hi>to ſuppreſſe and moderate all repinings at the Providence of God in his outward diſpenſati<g ref="char:EOLhyphen"/>ons.</hi> No one thing is ſo great an inducement to Atheiſme, &amp; direct denyall of God; as to diſtruſt the wiſedome &amp; equity of his Providence. <hi>David</hi> confeſſeth that the temptation ariſing from hence, did ſo farre prevaile upon him, that his <hi>feet had at moſt ſlipped</hi>—i. he was juſt then ſliding,
+<label type="milestone">
+                  <seg type="milestoneunit">Pſalm. </seg>73</label> even almoſt going into ſome erroneous and blaſphemous conceit about this matter. The temptation was taken from the proſperity of the wicked—<hi>I was envious at the fooliſh</hi>-ſaith he, <hi>v.</hi> 3. <hi>when I ſaw the proſperity of the wicked. Cur malis benè ſit,</hi> has been a queſtion that much puzled the Heathen world, and ſome of them have many excel<g ref="char:EOLhyphen"/>lent ſayings about it: but to ſpeak the truth, they ſeeme to be only things of wit, rather then of ſerious judgment: for this is certaine, who ever ſticks long upon this que<g ref="char:EOLhyphen"/>ſtion, cannot be guiltleſſe: ſince reaſon cannot reſolve it—<hi>When I ſought to know this,</hi> ſaith David, <hi>it was too painfull for me. v.</hi> 16. I did endeavour to debate and argue the caſe by my own reaſon, and from thence to anſwer my ſcruples, but I could not doe it, the objection did ſtill prevaile and overmaſter me. What did <hi>David</hi> then? we find that he went into <hi>the Sanctuary of God,</hi> v. 17. he con<g ref="char:EOLhyphen"/>ſulted the Oracle, and there he found the reaſon of their Advancement—And then he concludes that diſcourſe, with taxing himſelfe of great folly, for not taking this courſe ſooner, but giving ſo much ſcope and latitude to his corrupt reaſoning—<hi>So fooliſh was I and ignorant, I was as a Beaſt before thee. v.</hi> 22.</p>
+            <pb n="17" facs="tcp:112466:13"/>
+            <p> That which was <hi>Davids</hi> practiſe ought to be ours, when we are ſet upon with the ſame temptation, we have lived to ſee as great variety of ſtrange providences as any nation under Heaven; nor is the reaſon of this as yet re<g ref="char:EOLhyphen"/>vealed, we cannot yet ſpell out Gods meaning, but cer<g ref="char:EOLhyphen"/>tainly he has a great worke doing, which will in due time be accompliſhed.</p>
+            <p>So likewiſe in all particular events which concerne us, let us not ſo much conſider and reflect upon the things we ſee and feele, as upon the hand which ſent them. This will either eaſe our burdens, or at leaſt make us bear them with more cheerfulneſſe if we conſider that God laid them on, whoſe Power we cannot reſiſt, whoſe wiſedome we ought not to queſtion.</p>
+            <p>Let us ſtop our mouths, and quiet our diſcontents with this, that God is in the cloud, that <hi>he workes all things</hi> not according to his will barely, though that was enough, but <hi>according to the counſell of his will.</hi> There is a wiſedome and deſigne in every thing though we cannot reach it.</p>
+            <p>Many impatient <hi>Jonahs</hi> there are in the World, who think it becomes them to quarrell and conteſt with God, though <hi>they have but loſt their gourd.</hi> Whoſe ſpirit is like a <hi>trou<g ref="char:EOLhyphen"/>bled Sea,</hi> any ſmall wind will raiſe a ſtorme and beget a tempeſt in them.</p>
+            <p>Let all ſuch hearken to that advice of <hi>Hamah—Talke no more ſo exceeding proudly,</hi>
+               <note place="margin">1 <hi>Sam.</hi> 2.2.</note> 
+               <hi>let not Arogancy come out of your mouth, for our God is a God of knowledge, by him Actions are weighed</hi>—And not Actions onely, but events likewiſe: there are no ſuch things as raſh, caſuall and unpremeditated events: but that part of the skale, which falls to our lot, whether for good or bad, comes onely, becauſe God is ſo pleaſed to order and turne the balance.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div n="2" type="part">
+            <pb facs="tcp:112466:14"/>
+            <pb n="1" facs="tcp:112466:14"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Acts 13.45.</hi>
+                  </bibl>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. And as many as were ordained to Eternall-life, believed.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He Apoſtle <hi>Paul</hi> having in a large diſcourſe deduced Chriſtian Religion from its very Originall, and ſhewed, how in the ſeverall ages of the World, God ſtill carried on the ſame deſigne for the ſalvation of men by <hi>Jeſus Chriſt,</hi> as he that was not onely foretold, but figured in all their Legall Worſhip: you find—<hi>v.</hi> 45. the Jewes <hi>contra<g ref="char:EOLhyphen"/>dicting and blaſpheming:</hi>—i. either railing on <hi>Chriſt,</hi> or elſe reviling <hi>Paul,</hi> and ignominiouſly ſlighting and traducing the Doctrine which he had delivered.</p>
+            <p>Whereupon the Apoſtle <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>—i. <hi>ſpeaking freely,</hi> or <hi>plainly</hi> tells them that the loſſe and damage by ſo doing would onely redound to themſelves for <hi>hereby,</hi> viz. by re<g ref="char:EOLhyphen"/>fuſing the tender of Salvation ſo freely offered, they evi<g ref="char:EOLhyphen"/>denced that <hi>they judged themſelves unworthy ſo great a mer<g ref="char:EOLhyphen"/>cy,</hi> and therefore they being, as it were <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>men ſelfe-condemned,</hi> he would have no more to doe with them, but from thence forward publiſh the Doctrine of the Goſpell to the Gentiles: intimating that God till then had empaled his Church, and confined it to the narrow circuit of <hi>Judaea,</hi> thereby as it were impriſoning that ſun in a lan<g ref="char:EOLhyphen"/>terne: but now God would reſumc his whole right, that
+<pb n="2" facs="tcp:112466:15"/>
+               <hi>the earth might be the Lords and the fulneſſe thereof:</hi> exclu<g ref="char:EOLhyphen"/>ding no place, reſtreining no people from the benefit and comfort, which would flow from the light of the Goſpell ſteaming in and ſhining amongſt them.</p>
+            <p>Whereupon it followes v. 48. <hi>That when the Gentiles heard this they were glad, and Gloriſied the Word of the Lord — And as many as were ordained to Eternall Life belie<g ref="char:EOLhyphen"/>ved.</hi>
+            </p>
+            <p>From the words I entend to inſiſt upon and cleare, two Propoſitions.</p>
+            <p n="1">1. Firſt—That <hi>there are ſome, and that a definite and limi<g ref="char:EOLhyphen"/>ted number, which are by God from all eternity ordained unto Eternall life or ſalvation.</hi>
+            </p>
+            <p n="2">2. Secondly <hi>that the reaſon why one man believes,</hi> i. <hi>embra<g ref="char:EOLhyphen"/>ces the means of ſalvation, and another doth not, is finally to be reſolved into Gods eternall Election of the one, and reprobation or rejection of the other.</hi>
+            </p>
+            <p>Both theſe doctrines are cleere from the words of the text, for this phraſe—<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>—&amp;c. <hi>As many as were Ordained believed</hi> implies, firſt that ſome certaine per<g ref="char:EOLhyphen"/>ſons were ordained, whereby they are diſtinguiſhed from the reſt of the common hearers; and likewiſe it is added as a reaſon, why theſe believed, while the others continued in their impenitence: they were Ordained, therefore they Believed.</p>
+            <p>Before I prove the firſt Propoſition viz: <hi>That there are ſome and that a certaine number appointed unto life,</hi>—which I think is evident in the text—I muſt not omit that this Word— <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> hath been variouſly rendred, and many attempts have been made to draw it from its true and native ſignification. The ſumme of what they ſay is brie<g ref="char:EOLhyphen"/>fly this that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies Actively—<hi>Qui ſe parant Vitae aeternae, fitly diſpoſed and qualified for the Goſpell</hi>—ſo that <hi>Or<g ref="char:EOLhyphen"/>dained</hi> according to them, are not—<hi>Ordained</hi> by God, but ſuch as are <hi>Ordained</hi> by themſelves; Thus <hi>Socinus, Grotius,</hi>
+               <pb n="3" facs="tcp:112466:15"/>his interpreter Dr <hi>Hammond.</hi> That theſe men who do profeſſedly <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ſerve a ſide,</hi> and are unwilling to own any thing more in Reli<g ref="char:EOLhyphen"/>gion then they can reconcile to reaſon, ſhould thus ſtrangely (I will not ſay Ignorantly, for it is too much Learning that cauſes this madneſſe) but contrary to all rules of Grammar, and Analogy of the Greek tongue, make a paſſive verbe ſignify Actively, is to me no great wonder: for if they did not this, they would looſe their cauſe, and then what would become of their reputation with their followers; which, whatever becomes of the truth, muſt be ſecured: ſo impoſſible is it to drive on thoſe two contrary trades, of Goſpell obedience, and Humane Applauſe.</p>
+            <p>But ſince the Learned and Ingenuous Mr <hi>Mede</hi> ſuffered himſelfe to be ſo farre gone in his Criticiſmes, as to ren<g ref="char:EOLhyphen"/>der this Word—<hi>In Procinctu</hi>—i. ſuch who are in a poſture to lay hold upon, and candidates of <hi>Eternall life; quot quot de Agmine &amp; Claſſe fuerant credentium.</hi> So that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſhall be not Ordained but Ordered—i. <hi>modo militari,</hi> In ranke and file as it were, marſhalled and Embattelled unto eternall life: This is a conceit ſo ſtreined, ſo unſuitable to Scripture language: and withall ſo much misbecoming the learning of that Worthy man, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I cannot paſſe it over without obſerving theſe two things,</p>
+            <p n="1">1. That it is a very hard matter for the ſobereſt and beſt tempered Chriſtians, ſuch as I take Mr <hi>Mede</hi> to have been, to captivate their reaſon and to ſubdue their Learning unto the plainneſſe and ſimplicity of the Goſpell.</p>
+            <p n="2">2. That there is great need for all thoſe who are ſtu<g ref="char:EOLhyphen"/>dents in Divinity, and who deſigne themſelves for that Honourable, and never enough valued Profeſſion of Preaching the Goſpell, that they make themſelves worthy of it, as by all other excellencies, ſo eſpecially by carefull and diligent ſearch of the Scriptures in their Originall
+<pb n="4" facs="tcp:112466:16"/>Languages: And that, not onely becauſe he ought not to Prophecy who knowes not how to interpret, but leſt men who pretend to skill and exactneſſe in thoſe Tongues, doe abuſe our ignorance to an Embracing of their errors, while we are not able to diſtinguiſh between a true Text and a bad comment. For I doe not ſee how we can ra<g ref="char:EOLhyphen"/>tionally refuſe any Interpretation though falſe, if we are not able knowingly to make out a better of our own.</p>
+            <p>But for the clearing of this Text very little skill will ſerve, for who knowes not, that knowes any thing of Creeke, that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> was never yet taken Actively, and that the word cannot be otherwiſe rendred here, then it is every where elſe-viz. <hi>Ordained</hi> or <hi>Appointed.</hi> Thus Rom. 13.2. <hi>the Powers that are, are</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> — <hi>Appointed of God.</hi> And <hi>Act.</hi> 17.26. <hi>God hath bound or limited</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> —<hi>the fore-appointed ſeaſons—i.</hi> God hath ſet a fixed and certaine period unto the dura<g ref="char:EOLhyphen"/>tion of thoſe ſeverall changes and ſcenes of time, which he himſelfe hath preordained: ſo in this place <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>are thoſe that are by God certainly and infallibly appointed unto eternall life.</hi> God being not onely <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the diſpoſer of ſeaſons, but of perſons.</p>
+            <p>Theſe are they who by the Apoſtle <hi>Paul</hi> are called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>:
+<note place="margin">2 <hi>Cor.</hi> 4.</note> —the <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> ſaved allready-whoſe ſalvation is as ſure and certaine; as if they were allready put into full Poſſeſſion of it.</p>
+            <p>In another place they are ſtiled <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>foreordained or predeſtined to Grace and Glory:</hi> and that we might not doubt, what it was that gave the birth, and riſe to ſuch a gracious appointment— The Apoſtle addes that it was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">
+                  <hi>Eph.</hi> 1.5. <hi>&amp;c.</hi>
+               </note> 
+               <hi>according to the purpoſe of him,</hi> who doth not wait for nor depend upon outward motives, but <hi>workes all things according to the Counſell of his own will.</hi>
+            </p>
+            <p>Rom. 11.5. They are called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the Election of Grace</hi> i. ſuch perſons of whoſe Election Grace onely
+<pb n="5" facs="tcp:112466:16"/>was the Cauſe; and v. 7. ſimply <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the Election,</hi> i. e. thoſe whom God hath culled and choſen out from the Reſt of Mankind, and deſigned for Everlaſting Hap<g ref="char:EOLhyphen"/>pineſſe.</p>
+            <p>The force of theſe and many other Texts of Scripture to the ſame purpoſe, make all ſides agree, that <hi>Some in<g ref="char:EOLhyphen"/>deed are Appointed unto Life,</hi> but <hi>who theſe are, that God himſelfe doth not know,</hi> ſo <hi>Socinns:</hi> that <hi>though ſome are Ap<g ref="char:EOLhyphen"/>pointed, yet there is a Poſſibility for All,</hi> ſo <hi>Arminius.</hi> That is in ſhort, that Some ſhall be ſaved is Certaine; but that the Perſons and their Number is unlimited and uncer<g ref="char:EOLhyphen"/>taine.</p>
+            <p>Before therefore I prove the Point by Scripture, give me leave to bewaile a little the ſad Condition of thoſe men, who take a Liberty to Interpret Revealed, Truth by Rationall Notions; for in ſo doeing, through a juſt Judg<g ref="char:EOLhyphen"/>ment of God upon their Curioſity, they are forced to run into and maintaine thoſe Fond and Ridiculous Errors, which a Sober man would bluſh to own.</p>
+            <p>As in this Caſe, can it be imaginable that God ſhould deſigne any of his Creatures unto Eternall Life, and yet not know who they are? as <hi>Socinus</hi> affirmes, who brings in God, as the <hi>Platoniſts</hi> did of Old, not chuſing of Perſons, but Propoſitions; not deſigning this or that man to Sal<g ref="char:EOLhyphen"/>vation, and ſo to Faith Abſolutely by vertue of his Pre<g ref="char:EOLhyphen"/>rogative; but onely to Salvation Indefinitely upon ſup<g ref="char:EOLhyphen"/>poſition of Faith, which whether any will embrace or not, he doth not feare to Aſſert, that God himſelfe doth not know. So careleſſe are men of Gods Honour, while they Study and Contend for their own. For if the Caſe be ſo indeed, God doth onely leave himſelfe in the Darke, and doth not exerciſe his Power and Preſcience about his Nobleſt Creature, Man.</p>
+            <p>The Doctrine of <hi>
+                  <g ref="char:V">Ʋ</g>niverſall Redemption,</hi> though not ſo barefaced, yet labours with the ſame Abſurdity: for if
+<pb n="6" facs="tcp:112466:17"/>God knowes who ſhall be ſaved, then it is certaine there is no Poſſibility for all; or elſe we muſt conclude Gods Knowledge to be onely Gueſſe; and maintaine a too Ap<g ref="char:EOLhyphen"/>parent Contradiction: for if God knowes who ſhall be ſa<g ref="char:EOLhyphen"/>ved, then it is evident that theſe onely ſhall be ſaved, who are ſo known: whereas if there be a Poſſibility left for all, then it is Certaine, that God did not infallibly know, who they were that ſhould be ſaved; but left the whole to Hazard.</p>
+            <p>I muſt confeſſe I doe not willingly deſire to deale this way in Reproving any Error: for had I leſſe to ſay in Reaſon then I have, for Gods <hi>Eternall Abſolute Election,</hi> yet the Scripture being ſo Full and Poſitive in it, to that alone I would reſigne and give up my Faith, and not wil<g ref="char:EOLhyphen"/>lingly ſuffer my ſelfe to partake either of their Fate, or of their Folly, who cannot endure to be Taught, but in Spirituall, and therefore Inconceivable Things, would faine <hi>be wiſe above what is written.</hi>
+            </p>
+            <p>For that there is <hi>a Set and Limited Number appointed to Salvation,</hi> appeares from Scripture, in that God is ſaid to <hi>Know who are his,</hi> 2 <hi>Tim.</hi> 2, 19. i.e. Not their Natures onely, but their Names alſo: for therefore our Saviour <hi>Luc.</hi> 10.20. bids his Apoſtles <hi>rejoyce in that their Names were written in Heaven,</hi> put into Gods Muſter-roll and Catalogue of Eternity, from whence they could never be blotted out.</p>
+            <p>
+               <hi>Known unto the Lord,</hi> ſaith the Apoſtle, <hi>are all his works</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>from Ever, Act.</hi> 15.18. i. e. ſo known as to be diſpoſed and ordered by him; nay therefore known, be<g ref="char:EOLhyphen"/>cauſe ordered, for ſo to diſtinguiſh between Gods Know<g ref="char:EOLhyphen"/>ledge and his Power as in his Actions <hi>ad extrà</hi> to ſeparate one from the other, is to ſpeake neither Senſe nor Scrip<g ref="char:EOLhyphen"/>ture: for <hi>whom God for knew, them, all</hi> them, &amp; onely them, not in their Qualifications, but in their Reſpective perſons, <hi>did he predeſtine to be conformable to the Image of his Son.
+<pb n="7" facs="tcp:112466:17"/>Rom.</hi> 8.29.
+<note place="margin">
+                  <hi>Math.</hi> 10.30.</note> And if of an Elect perſon <hi>all the Haires are Numbred,</hi> how much more of Chriſts Myſticall Body, are all the Members numbred? which Body is already com<g ref="char:EOLhyphen"/>pleat as to Gods Purpoſe concerning it, and to Imagine that any ſhall fill a place there, whom God doth not al<g ref="char:EOLhyphen"/>ready know as particularly, as if they were Actually Exi<g ref="char:EOLhyphen"/>ſting, is to meaſure Eternity by time, and to make God like our ſelves Fraile and Fallible.</p>
+            <p>The Reaſon of this is, becauſe <hi>every Act of God is Ab<g ref="char:EOLhyphen"/>ſolute:</hi> as his Nature is, ſo are the Actions which flow from it, Unconditionall and Irreſpective.</p>
+            <p>For the clearing of which Reaſon, it will be neceſſary to explaine in the Act of Election 1. How God, who Elects, 2. How man, who is elected, are to be Conſidered.</p>
+            <p>For the Firſt, Many there be that think <hi>God in the Act of Election, is to be Conſidered as a Judge;</hi> and hence argue againſt this Abſolute and Irreſpective Election from thoſe Known and Obvious places of Scriptures,
+<note place="margin">
+                  <hi>Gen.</hi> 18.25. &amp; <hi>Rom.</hi> 3.5. <hi>Act.</hi> 10.30.</note> —<hi>Shall not the Judge oſ all the Earth do right? ſhall God accept perſons?</hi> or preferre one before another, when all are Equall? how is this Reconcileable to his Juſtice?</p>
+            <p>I anſwer, that in the Act of Election <hi>God</hi> is not to be conſidered as a <hi>Judge,</hi> becauſe</p>
+            <p n="1">1. <hi>A Judge as a Judge, is tied to a Rule, which he may not Tranſgreſſe;</hi> but what Rule can be Imagined to Tye God, except what he hath ſet himſelfe? which in the Act of Election, that being Eternall, and flowing onely from the Will of God, cannot rationally be ſuppoſed.</p>
+            <p n="2">2. <hi>The Buſineſſe of a Judge, as a Judge, is to Beſtow Re<g ref="char:EOLhyphen"/>wards and Puniſhments according to Merit,</hi> but in Election the Motive onely on Gods part is Grace, and the End is Glory.</p>
+            <p n="3">3. <hi>God is not at all Obliged to Man;</hi> he that made man, may freely appoint him to what Ends he pleaſes, without doing him any Injury: for <hi>hath not the Potter power over
+<pb n="8" facs="tcp:112466:18"/>his Clay?</hi> though for a man to plead with God in this Caſe is ſomewhat a worſe Soleciſme, then for Clay to quarrell with the Potter. Since there Matter ſtrives on<g ref="char:EOLhyphen"/>ly with its Faſhioner, but here Nothing contends with its Maker. There the Clay though it be not a <hi>veſſell of Honour,</hi> yet remaines Clay ſtill; but here not the Quality only, but the Subſtance likewiſe is ſubject to the Pleaſure of its Framer.</p>
+            <p>Laſtly, <hi>The Apoſtle,</hi> being to give a Reaſon of this Difference between one man and another, <hi>aſcribes it alto<g ref="char:EOLhyphen"/>gether to Gods good pleaſure;</hi> and for a Proofe of that Aſ<g ref="char:EOLhyphen"/>ſertion, he alledges a Saying of God himſelfe <hi>Rom.</hi> 9.15. <hi>I will have Mercy on whom I will have Mercy,</hi>
+            </p>
+            <p>So that the Act of God in chuſing ſome to Everlaſting Life, and refuſing others, is not an <hi>Act of Juſtice,</hi> for they neither did nor could deſerve it; nor is it properly an <hi>Act</hi> of <hi>Mercy,</hi> for that any ſhould be ſaved at all was meerly from Mercy, but that theſe rather then others, was not properly from Mercy' becauſe Mercy is Equall to all that Equally deſerve it, or Equally ſtand in need of it, but here between Equalls a diſtinction is made. <hi>Election</hi> therefore is an Act of <hi>Soveraigne Will,</hi> the Apoſtle calls it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Eph.</hi> 1.5. <hi>The good pleaſure of Gods will,</hi> which as none can reſiſt, ſo none ought to Queſtion; for neither is Man ſtronger than God, nor ought he to think him<g ref="char:EOLhyphen"/>ſelfe Wiſer. Thus God in the Act of Election is not to be Conſidered <hi>ut Judex, ſed ut Dominus;</hi> as a Judge, but as a Soveraigne.</p>
+            <p>For the ſecond, viz. how the Perſons, who are Elected, are to be Conſidered. Some affirme they are to be look<g ref="char:EOLhyphen"/>ed upon as <hi>Believers,</hi> viz. <hi>That God foreſeeing ſome would embrace Faith and Salvation, when it was offered them, he did therefore chuſe ſome unto Everlaſting Life.</hi> And this Con<g ref="char:EOLhyphen"/>ceit is not onely maintained by our Moderne <hi>Arminians,</hi> but, that I may not ſeeme to mince the matter, was in
+<pb n="9" facs="tcp:112466:18"/>generall the opinion of almoſt all the Greeke and Latine Fathers, except only <hi>Auſtine</hi> of the Primitive and Purer Times. They who have read them, will affirme as much, and they who doubt may read their Sayings to this Pur<g ref="char:EOLhyphen"/>poſe, faithfully Collected by <hi>Voſſius</hi> in his <hi>Hiſtoria Pela<g ref="char:EOLhyphen"/>giana.</hi>
+            </p>
+            <p>But this Suppoſition, however Plauſible (as indeed what is not, that gives man a Power) and though backed with ſo much Authority, yet ſeems to me to be directly con<g ref="char:EOLhyphen"/>trary both to <hi>Reaſon</hi> and <hi>Scripture.</hi>
+            </p>
+            <p>Firſt to <hi>Reaſon,</hi> becauſe</p>
+            <p n="1">1. <hi>This puts ſomething as a Cauſe to move Gods will:</hi> for if Faith foreſeen in man were the Cauſe why God choſe him, then ſomething without God ſhall have an Influence upon him: which certainly is very Abſurd, if not Blaſphemus: for if God ſhall be ſuppoſed to take a Reaſon of his Actings from ſomething without himſelfe, that thing muſt needs alter him, and conſequently be greater than he.</p>
+            <p>Secondly, becauſe <hi>this very Faith thus foreſeen is the Gift of God,</hi> as the Apoſtle affirmes <hi>Eph.</hi> 2.8. and none that I know deny it: ſo that if <hi>Faith foreſeen</hi> were the Cauſe of chuſing any, the Decree of God muſt thus be ordered,— I foreſee that I will give ſuch a one Faith, therefore I de<g ref="char:EOLhyphen"/>cree that I will ſave him, i.e. I decree to give the meanes, before I have yet appointed the End: which is a Method of Marſhalling Gods Decrees, that a knowing Heathen would be aſhamed to think of.</p>
+            <p>More might be urged, but I haſten to Scripture Con<g ref="char:EOLhyphen"/>futation: we find our Saviour ſayes of his Diſciples (which who ſees not how Applicable it is to all the Elect) that <hi>he choſe them, they had not choſen him, Joh.</hi> 15.16. but if <hi>Faith foreſeen</hi> were a Cauſe, he muſt have ſaid the cleane contrary, for then he would have choſen them, becauſe they had firſt choſe him.</p>
+            <pb n="10" facs="tcp:112466:19"/>
+            <p> And the Apoſtle <hi>John</hi> 1 Ep. 4.10. ſayes, <hi>this is love, not that we loved God firſt, but that he loved us, and for that reaſon ſent his Son,</hi> not as foreſeeing our Affection, but as purſuing the Intent, and procuring in us the Effects of his own.</p>
+            <p>And the Apoſtle <hi>Paul</hi> doth every where aſſert <hi>Faith</hi> to be a <hi>Fruit</hi> and not a <hi>Cauſe</hi> of <hi>Election;</hi> that we are <hi>choſen unto</hi> Good Works, not <hi>for</hi> them; i. e, that they who are <hi>Predeſtined,</hi> ſhall certainly <hi>Believe,</hi> not they who <hi>Believe</hi> were therefore <hi>Predeſtined;</hi> which is the ſumme of his Diſcourſe <hi>Eph.</hi> 1.</p>
+            <p>So that in the Act of Election, men are to be conſide<g ref="char:EOLhyphen"/>red as meerly Paſſive, i.e, as <hi>Creatures,</hi> not as <hi>Believers;</hi> as ſuch who were liable to be diſpoſed by God how he pleaſed, but had no Poſſibility of meriting any thing from him.</p>
+            <p>This is affirmed of the <hi>Iſraelites</hi> in Generall, <hi>Deut.</hi> 7. that <hi>God choſe them, not becauſe they were better, or more Righteous then other People, but becauſe he ſet his Heart upon them.</hi> And leſt they ſhould perhaps pride themſelves with a Conceit, that for their own worth and Excellence this Priviledge was given them, they are expreſſely told there was no ſuch matter, for <hi>they were a ſtiffenecked and Rebellious People, Deut.</hi> 9.6. Able rather to thwart, and, if poſſible, to undoe Gods Election, then to procure it.</p>
+            <p>Thus we find <hi>Math.</hi> 11. <hi>that Chriſt</hi> preached the Goſpell to <hi>Bethſaida,</hi> and to them of <hi>Capernaum,</hi> who were ſo far from meriting, that our Saviour affirmes of them, <hi>Sodom and Gomorrah</hi> had they enjoyed the like Favour, <hi>would have been much more repentantant then they.</hi>
+            </p>
+            <p>And to conclude in Particulars, the Apoſtle <hi>Paul</hi> hand<g ref="char:EOLhyphen"/>ling this very Argument, and intending for ever, ſo far as Scripture evidence will reach, to ſilence the Diſputer of this World, that God alone may have the Glory of his Grace, he inſtances in <hi>Jacob,</hi> who was by Virtue of this
+<pb n="11" facs="tcp:112466:19"/>Abſolute Election preferred before <hi>Eſau,</hi> (the Tempo<g ref="char:EOLhyphen"/>rall Condition ſerving to ſhadow out the Eternall) for leſt any Imagination ſhould ariſe, as if <hi>Jacob</hi> in himſelfe were the more deſerving of the Two, he ſaies it was done <hi>before any of them had done either Good or Evill, Rom.</hi> 9.11. And if it ſhould be Asked, how it came to paſſe that one was taken, and the other left; what did induce God to put ſuch a Difference between Two, who were Morally E<g ref="char:EOLhyphen"/>quall, and Naturally <hi>Eſau</hi> was to have the Advantage, the Apoſtle addes, that it was done to this End, <hi>that the Purpoſe of God according to Election might ſtand, not of Workes, but of him that calleth.</hi> Wherein the Apoſtle plea<g ref="char:EOLhyphen"/>ding the Cauſe of Gods Honour, and being Jealous of his Prerogative, reſolveth all things into Gods Purpoſe, and referres us thither to ſeek the Ultimate Difference of men's either Temporall or Eternall Condition. And he that will not acquieſce, when he thus finds it written, but will bring his Wit to ſtrive and Wreſtle againſt the Will of God, he cannot alter that, but onely does unhappily evince to himſelfe, that while he continues that Humor, he is not of the Number of Gods Elect, for all that are, a Willing; Humble, and Obedient People.</p>
+            <p>Againſt this which hath been urged, there is that I know of but one Conſiderable Objection; and that is, <hi>if the Number of thoſe which ſhall be ſaved be limited and Certaine, ſo that there is no Poſſibility for more, how comes it to paſſe that the Prophets and Apoſtles, are ſo Importunate, with all indifferently to Come in, and Repent, that they might be ſaved:</hi> and <hi>God himſelfe is often brought in in Scripture chiding and Expoſtulating with Sinners for deſtroying themſelves, and for refuſing Salvation; which ſeems to be a Vain and Ludi<g ref="char:EOLhyphen"/>crous thing, if the Number be ſo Set already, that there is no Roome for more.</hi>
+            </p>
+            <p>This Objection is yet made more Tragicall by the many Heavy charges and Enditements, which are drawn
+<pb n="12" facs="tcp:112466:20"/>up againſt this, as ſome ſtile it, Partiall and Cruell dea<g ref="char:EOLhyphen"/>ling, from the Common Places of Gods Juſtice and Mer<g ref="char:EOLhyphen"/>cy, which men who love themſelves are very willing to Enlarge, and therefore eaſily hearken to thoſe who dare declaime upon ſuch Subjects: But theſe Vaine and Emp<g ref="char:EOLhyphen"/>ty Flouriſhes, however inſoluble they may ſeeme to ſome, who are guided by the firſt Impreſſion and ſound of Words, are of no Importance, if we fix <hi>Election</hi> onely upon <hi>Gods Will;</hi> for this will preſently cut off all Witty Cavills, if we can prove that God will indeed have it ſo; and therefore I look upon the former Objection as their maine ſtrength, becauſe it immediately tends to Practiſe, and ſeemes to beget this Opinion, that Gods <hi>Secret</hi> and <hi>Revealed will</hi> do Thwart &amp; Contradict each other. There<g ref="char:EOLhyphen"/>fore I anſwer</p>
+            <p n="1">1. That <hi>though few ſhall be ſaved, and thoſe Few deter<g ref="char:EOLhyphen"/>mined, yet becauſe they are unknown to us, we are to look upon all as in a ſaveable Condition.</hi> Thus the Prophets and A<g ref="char:EOLhyphen"/>poſtles did in their ſo frequent and Repeated Inſtances with thoſe to whom they preached, and their Example we are to follow: For peremptorily to conclude againſt any, and to deny them the meanes of Salvation, becauſe they are not Elected, is an Uncharitable Preſumption in us, which we ſhall more heavily account for, then they will do for their Diſobedience and Unbeliefe.</p>
+            <p n="2">2. <hi>There is no other way for thoſe who are Elected, to come to the Knowledge of the Truth,</hi> but by <hi>a Generall Pro<g ref="char:EOLhyphen"/>poſall of it Indifferently to all,</hi> which is our Saviours mea<g ref="char:EOLhyphen"/>ning in thoſe many Parables, which intimate a Promiſcu<g ref="char:EOLhyphen"/>ous Call; from whence he concludes, that <hi>though many are Called, yet few are Choſen;</hi> and we may invert the Propoſition thus, though Few are Choſen, yet many muſt be called. In this World the Tares and the Wheat muſt be equally Tended, and though they grow together with ſome diſcernable Difference, yet it is not the Mini<g ref="char:EOLhyphen"/>ſters
+<pb n="13" facs="tcp:112466:20"/>buſineſſe to make a Finall Sepatation.</p>
+            <p>Laſtly, <hi>There is a Twofold end in Preaching the Goſpell, the firſt and principall is to bring in Gods Elect, but Seconda<g ref="char:EOLhyphen"/>rily it ſerves to condemne the Reprobate, and to make their Damnation Juſt..</hi> For what can they pleade at the laſt day to Juſtifie their Unbeliefe; ſince when they were Cal<g ref="char:EOLhyphen"/>led as it were by name, yet they did willingly exclude themſelves, and thereby, as the Apoſtle ſayes of the Jewes here, <hi>judged themſelves <g ref="char:V">Ʋ</g>nworthy of Eternall Life.</hi>
+            </p>
+            <p>Thus the Apoſtle ſaies that <hi>Gods Divinity and Spirituall Being was diſcovered in the Creation:</hi> and if it was asked to what Purpoſe, ſince ſo few did either Believe or Worſhip him as they ought, he anſwers, that it was for this End — <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Rom.</hi> 1.20. That they might have nothing to Pleade, no quirke nor Apology left to Excuſe their Atheiſme and Idolatry.</p>
+            <p>And <hi>if our Goſpell be hid,</hi> ſaith he, <hi>it is Hid to thoſe which are loſt;</hi> 2 <hi>Cor.</hi> 4.3. diſcovered to them, but hid in them, becauſe they do not take paines, as they ſhould, to ſearch out its inward and Spirituall meaning.</p>
+            <p>So we are, ſaith he, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a ſweet ſmelling Sacri<g ref="char:EOLhyphen"/>fice to God,</hi> 2 <hi>Cor.</hi> 11.13. both <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>in the ſaved and in the loſt.</hi> i. e. We do God good and acceptable Service, when we preach the Word, whether it ſerves to Save or to Condemne; for in the one Gods Mercy, in the other Gods Juſtice is manifeſted. Thoſe that come in will find mercy, for thereto they were appointed: thoſe that ſtand out, ſhall be ſure of Juſtice, becauſe when they were ſummoned as well as others, yet they would not, becauſe they would not: They did vo<g ref="char:EOLhyphen"/>luntarily contemne the Word of Life, and therefore can blame none but themſelves, if at laſt they find it a Word of Death.</p>
+            <p>If any think this <hi>Harſh</hi> and <hi>Severe,</hi> I cannot deny but it is ſo, and thus the Apoſtle thought it <hi>Rom.</hi> 9.22. when
+<pb n="14" facs="tcp:112466:21"/>he ſayes, that God herein did manifeſt <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>his Anger as well as his Power.</hi> Nay, he goes ſomewhat farther, and ſpeaking of the ſame Decree, <hi>Rom.</hi> 11.22. he calls it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the Extreme Rigor and ſharp Severity of God,</hi> but from thence he doth not take occaſion to enveigh againſt it, as our Bold and Blaſphemous diſputers doe, but con<g ref="char:EOLhyphen"/>cludes as it were in a Rapture, <hi>v.</hi> 33. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> — <hi>Oh the Depth</hi> &amp;c.</p>
+            <p>As for thoſe many Expreſſions wherein God is ſaid to declare his willingneſſe that <hi>All</hi> ſhould be ſaved, (as 1 <hi>Tim.</hi> 2.4. &amp;c.) they may either be Interpreted of Gods will as declared by the Preachers of it; which is Indefinite to All that Believe and Repent: or elſe, they may be un<g ref="char:EOLhyphen"/>derſtood <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and ſpoken after the manner of men, in the ſame ſenſe that God is ſaid to have Eies and Eares and other Bodily Parts, whereby he is pleaſed to render himſelfe Intelligible by us. For if God did indeed Will the Salvation of <hi>All,</hi> then it is Certaine that All would be ſaved, for <hi>God can do whatever he wills:</hi> but ſince it is manifeſt that <hi>All</hi> are not Saved, it is evident likewiſe that God did not will <hi>All</hi> ſhould be ſaved, for <hi>who hath reſiſted his Will?</hi>
+            </p>
+            <p>As for that <hi>Velleity,</hi> i.e. a kind of Longing, Wiſhing, or Woulding diſpoſition in God, which ſome raſhly bring in to ſalve their <hi>Phenomena</hi> by, ſince it is Ineffectuall and conſequently Imperfect, it is altogether unfit to be aſ<g ref="char:EOLhyphen"/>cribed to God, for it is nothing elſe but Infirmity and Want of Power in Man.</p>
+            <p>So much for the Firſt Obſervation.</p>
+            <p>D. 2. The ſecond Obſervation was this, <hi>that the Reaſon why one man believes,</hi> i. e. <hi>embraces the meanes of Salvation, and another doth not, is finally to be reſolved into Gods eternall Election of the one, and Reprobation of the other:</hi> or more briefly thus, that <hi>onely thoſe who are ordained unto eternall Life, either do or can believe.</hi>
+            </p>
+            <pb n="15" facs="tcp:112466:21"/>
+            <p> And the Reaſon is briefly this, becauſe <hi>onely thoſe who are deſigned to the End, ſhall be made effectuall Partakers of the Meanes which leads unto it.</hi>
+            </p>
+            <p>Thus our Saviour <hi>Math.</hi> 13. rendring a Reaſon why ſome did not underſtand his Doctrine, he gives this, be<g ref="char:EOLhyphen"/>cauſe <hi>to them it was not given:</hi> and the Apoſtle calls the Goſpell <hi>a Savour of Life,</hi> onely <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>to the Sa<g ref="char:EOLhyphen"/>ved.</hi> 1 <hi>Cor.</hi> 1 (i. e.) Actually deſigned to Salvation. And the ſame Apoſtle exhorting the <hi>Theſſalonians</hi> to Faith and Love, he gives this as a Motive, 1 <hi>Theſ.</hi> 9. <hi>becauſe they were not appointed to Wrath, but to obtaine Salvation by Jeſus Chriſt.</hi> Where by the way, we may take notice, that a Certaine Knowledge of our Eternall Election is ſo far from hindering any in the Practiſe of Godlineſſe, that it is by the Apoſtle uſed as an Argument to quicken their Endeavour; as if he had ſaid, becauſe God hath Appoin<g ref="char:EOLhyphen"/>ted you unto Eternall Life, therefore labour after the Meanes which leads unto it.</p>
+            <p>There is a ſetled Chaine and Connexion of Cauſes, which do immutably inferre one another: To be ſaved preſuppoſes Obedience, That, Faith; That, the Gift of God, and that runs up to the Higheſt Link, which is the Grace and Favour of God to every poor believer. It is certaine that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, all have not the Grace, be<g ref="char:EOLhyphen"/>cauſe they want the Gift of Faith: that being not thrown at Randome on all, but reſerved as a Peculiar Bleſſing for Gods choſen ones; and them he calls, while he leaves others to their Naturall Hardneſſe and Impenitence.</p>
+            <p>It is not in Vaine or Figuratively ſpoken onely 2 <hi>Cor.</hi> 5.17. that every Believer is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaid to be <hi>new borne, againe created and Faſhioned</hi> &amp;c. but theſe Phraſes imply this Neceſſary Truth, that as none but thoſe who are created men, can put forth the Acts of men, and ſuch Creation they could not procure nor contribute to them<g ref="char:EOLhyphen"/>ſelves, becauſe as yet they were not; ſo none but thoſe
+<pb n="16" facs="tcp:112466:22"/>who are Created unto Good Workes, can live in them, becauſe Naturally they want a Principle, whereby they ſhould underſtand or Reliſh them. And this is the Be<g ref="char:EOLhyphen"/>nefit of that Eternall Election, whereby <hi>God workes in all that he loves all their workes both in them and for them, Phil.</hi> 2.13. that they might know and Confeſſe to the praiſe of his Glorious Grace, that <hi>it is not in him that Wills, nor in him that Runs, but only in God that ſhewes Mercy, Rom.</hi> 9.16.</p>
+            <p>Before I make any Uſe, I muſt prevent an Objection, which every man Naturally is ready to Urge, and not to take Notice of it, were to prevaricate with the Truth. The Objection is this, <hi>if it be ſo that Some, and that a Li<g ref="char:EOLhyphen"/>mited Number are Appointed to Life, and onely ſuch can be<g ref="char:EOLhyphen"/>lieve, then it follows that we may live as we liſt, for if we are Appointed to Life we ſhall be ſaved, God will in his good time Accompliſh his Purpoſe concerning us, which all our Endea<g ref="char:EOLhyphen"/>vour can neither Promote nor Alter.</hi>
+            </p>
+            <p>To this Objection which moſt Carnall Minds do not onely Reaſon but Live by, I may Anſwer as the Apoſtle did, when having aſſerted the Freeneſſe of Grace, and how altogether undeſerved it was on our part, he brings in a profane perſon asking this Queſtion, <hi>ſhall we continue in Sin, that Grace may Abound? Rom.</hi> 6. i.e. what ſhall we put God to it, and Try if we can Out-ſin the Riches of his Mercy? To this the Apoſtle replies only <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>let it not be,</hi> or it may not be ſuch a Thought can never ariſe in any ones Heart, who does Truly underſtand what Mercy meanes.</p>
+            <p>So may I ſay here, if any who conceives himſelfe Ele<g ref="char:EOLhyphen"/>cted, ſhall draw this Concluſion from hence, becauſe God hath choſen me, and I am ſure of my Salvation, therefore I will run on and provoke him daiely, and ſtrive as it were, to blot out and Croſſe his Decree: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Thou canſt not do it, thou canſt not apprehend that God loved
+<pb n="17" facs="tcp:112466:22"/>thee with an everlaſting loves, and ſingled thee out from the lumpe of mankind when ſo many millions were to be undone eternally, but it will worke upon thee, and melt all thy affecti<g ref="char:EOLhyphen"/>ons into a gratefull returne of ſervice unto that God, to whom thou art obliged for ſo infinite and undeſerved mercy.</p>
+            <p>But if any who hath a mind to live wickedly ſhall Argue—If If I am not deſigned to life I ſhall be damned, let me do what I can—I anſwer</p>
+            <p>Firſt, that <hi>there is no poſſibylity for any truth to be ſo cleare, but that evill men may abuſe it to their own deſtruction:</hi> and I believe every one ſees how the making Gods decrees conditionall will lead a corrupt mind to the ſame Inference, For he may as well ſay—If God foreſee, that I ſhall believe, I ſhall believe; and ſo in the meane while take his liberty; But</p>
+            <p>Secondly, Conſider that <hi>as Gods decree of Election hath no influence to Neceſſitate the will of any,</hi> but he that believes though ordained to it, yet believes freely and willingly; ſo <hi>the Decree of Reprobation hath no influence at all to the Damning of any:</hi> becauſe though thoſe who are Reprobated ſhall certaine<g ref="char:EOLhyphen"/>ly be damned, yet ſentence ſhall not paſſe upon them according to the act of Gods Reprobation, but according to the merit of their works. Gods decree is made by power, but it's executed by Law; and therefore while thy damnation is yet uncertaine, doe not diſpute thy ſelfe into ſuch a ſtate, as to endeavour to make it juſt.</p>
+            <p>Laſtly, <hi>The Rule of our Obedince is not Gods decree but Gods command. Moſes</hi> when he had given the Law, exhorts them to walke according to it, and to check their Inquiſitiveneſſe, tells them that they were <hi>not to Aſcend into Heaven,</hi> there to pry and ſearch into Gods Decree concerning themſelves, <hi>but the word was nigh them, in their hearts that they might do it,</hi> Deut. 11.12.</p>
+            <p>And the reaſon is bottomed upon that eternall and unanſwe<g ref="char:EOLhyphen"/>rable truth—<hi>Secret things belong to God, but things revealed to us</hi>—that they may be our rule to walke by.</p>
+            <p>So that in ſhort we are ſo to aſcribe all Power &amp; Praiſe to God,
+<pb n="18" facs="tcp:112466:23"/>as to looke upon and acknowledge him the great and ſupreme diſpoſer of all things—but yet we are ſo to live in our obedi<g ref="char:EOLhyphen"/>ence and ſubmiſſion to his command, as if nothing was at all decreed concerning us, but that we were wholly left to the counſell and power of our own will.</p>
+            <p>For if we conclude againſt our ſelves, and live like reprobates, we are ſure to periſh.</p>
+            <p>But if with hearty and zealous endeavour we ſtrive to doe the will of God, and leave the event unto his mercifull provi<g ref="char:EOLhyphen"/>dence, againſt ſuch, I dare boldly affirme it, there is no condem<g ref="char:EOLhyphen"/>nation, and the world ſhall ſooner periſh then ſuch a ſoule miſ<g ref="char:EOLhyphen"/>carry.</p>
+            <p>Therefore the <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> I ſhall make of this diſcourſe, ſo neceſſary for theſe cavilling times, is to exhort us all <hi>that we would leave off diſputing and fall to practiſe.</hi>
+            </p>
+            <p>Since it is certaine that the <hi>foundation of God ſtandeth ſure</hi> which is this, <hi>that God knoweth who are his,</hi>—i. knoweth them de<g ref="char:EOLhyphen"/>finitely, we may vexe and diſtemper our ſelves by wrangling, but we ſhall not be able to ſhake or alter that.</p>
+            <p>All the while we are diſputing we are like <hi>Abrahams</hi> Ram caught by the hornes in the Thicket, when we ſhould be offe<g ref="char:EOLhyphen"/>red up in ſacrifice, we are vainly ſtrugling to entangle and ſnare our ſelves with our own Dilemmas.</p>
+            <p>It would be counted madneſſe in a Traveller, who has a great way to goe, and but a little time to performe his Journies in, if he ſhould leave his road, and needleſſely run into a wood, where, beſides the troubleſomeneſſe of the paſſage, he is ſure to looſe his time, if not himſelfe, and in the end ſit down to la<g ref="char:EOLhyphen"/>ment his folly.</p>
+            <p>No leſſe unwiſe are we if we leave the ſafe and known path of Gods Commandments, to wander in the endleſſe maze and Labyrinth of Gods decrees.</p>
+            <p>If in worſhip, when a man ſtrives to ſerve God more ſtrictly or in a more ſpecious manner then the rule warrants him, his whole devotion is ſlighted with a <hi>Quis Requiſivit haec?</hi> who bad
+<pb n="19" facs="tcp:112466:23"/>you trouble your <hi>ſelfe</hi> with theſe things? how much more ſe<g ref="char:EOLhyphen"/>verely ſhall he be reproved, who ventures upon a forbidden as well as undoing curioſity?</p>
+            <p>In ſhort all the while we are arguing, we are out of Gods way; and in the way onely of our own inventions; and till we get out of it, we may juſtly feare that the iſſue will be, confuſion, amazement, doubting, and at laſt deſpaire.</p>
+            <p>If men would but once <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> be ſober in their reaſonings, it would appeare but a modeſt requeſt, that God and his word alone ſhould have the honour, above and beyond our private conceptions. For he will be found juſt, when he comes to Judgment, but woe be to that man who daires arraign him?</p>
+            <p>Whatever vaine men may anogate to themſelves, and upon the confidence of ſuperficiall and empty Rhetorick, venture to entern edle with, and to paſſe their cenſure upon matters ſo in<g ref="char:EOLhyphen"/>finitely above their reach, yet they will find at laſt, that obedi<g ref="char:EOLhyphen"/>ence is better then knowledge, that ſelfe denyall is the onely Goſpell-ſacrifice, and of all Chriſtians, the humbleſt Chriſtian is the beſt. Therefore</p>
+            <p>Secondly, <hi>Since there are certaine Number appointed unto Eter<g ref="char:EOLhyphen"/>nall Life, let us give our ſelves no reſt, till we can comfortably pro<g ref="char:EOLhyphen"/>nounce to our ſelves that we are of that Number.</hi>
+            </p>
+            <p>Many are the ſignes by which a man may judge of his eternall condition, and one of them is expreſſed here in the Text—That <hi>who were Ordained unto Eternall life believed</hi>—i. Believed the word of the Lord, concerning ſalvation by Chriſt.</p>
+            <p>So that goe preſently and aske your ſelves this queſtion, do I believe? <hi>i.</hi> Am I willing to receive Chriſt, and Salvation? Yes, perhaps you will ſay, I am willing.</p>
+            <p>Then go on farther and aske, but am I willing to receive Chriſt upon his owne Termes, to acknowledge my owne wretch<g ref="char:EOLhyphen"/>edneſſe without him, to fly to him, as I would to Shore out of a Tempeſt? Do I ſee my ſelfe in ſo Undone and loſt a Condition, that nothing but his ſatisfaction can relieve me? then goe to
+<pb n="20" facs="tcp:112466:24"/>
+               <hi>Chriſt,</hi> he calls thee, he calls thee as effectually, as if thou heardſt a voyce from Heaven ſaying Come: <hi>Come unto me thou weary and laden Soule and I will give thee reſt, Mat:</hi> 2.28. Come with all thy Sins, nay with all thy Feares upon thee; and I will take thy Burden, I will ſettle thy Diſtractions, and ſpeake to thy ſoule in the midſt of its Diſquiets, Soule be at peace, I can make up all thy Wants, and am able to ſave to the uttermoſt.</p>
+            <p>If after this thou canſt be content with nothing but <hi>Chriſt,</hi> if thou art willing to quit all for him, and to count the world only as a ſtage, where either thy Faith or Patience muſt be daily exer<g ref="char:EOLhyphen"/>ciſed: if thou doſt find that ſweetneſſe in the Face of a Recon<g ref="char:EOLhyphen"/>ciled God, as no earthly enjoyment could bribe thee to a willing commiſſion of any knowne ſin againſt him, then goe and enter into thy Reſt, and take an earneſt of thy future joy. For if the caſe be thus with thee, and thou perſevereſt in it, Heaven and Happineſſe are as ſurely thine as if thou wert allready there and even while thou liveſt, thou art placed in ſo high a ſphere of Fe<g ref="char:EOLhyphen"/>licity and content, as all the laboured and periſhing comforts of this world, cannot amount to fill up one minute of thy entire ſa<g ref="char:EOLhyphen"/>tisfaction.</p>
+            <p>This deſerves to be more particularly inſiſted upon, and ſome motives likewiſe might be uſed to preſſe all unto this duty of examining their future ſtate.</p>
+            <p>But certainly they who know what <hi>Eternity</hi> is, and how neare they are to it, how every minute, for ought they know, may waſt them thither, they will not long put off or deferre the enquiry: for all the while they doe ſo, they evince to themſelves that they have no lot nor portion in the Heavenly Inheritance. For though both Grace and Glory are beſtowed Freely, yet wee may ſadly conclude, that they are not deſigned for thoſe who looke not after them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
